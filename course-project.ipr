@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CheckStyle-IDEA">
+    <option name="configuration">
+      <map>
+        <entry key="checkstyle-version" value="8.45" />
+        <entry key="copy-libs" value="true" />
+        <entry key="location-0" value="BUNDLED:(bundled):Sun Checks" />
+        <entry key="location-1" value="BUNDLED:(bundled):Google Checks" />
+        <entry key="scan-before-checkin" value="false" />
+        <entry key="scanscope" value="JavaOnly" />
+        <entry key="suppress-errors" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="InspectionProjectProfileManager">
+    <profile version="1.0">
+      <option name="myName" value="Project Default" />
+      <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
+        <option name="myValues">
+          <value>
+            <list size="8">
+              <item index="0" class="java.lang.String" itemvalue="nobr" />
+              <item index="1" class="java.lang.String" itemvalue="noembed" />
+              <item index="2" class="java.lang.String" itemvalue="comment" />
+              <item index="3" class="java.lang.String" itemvalue="noscript" />
+              <item index="4" class="java.lang.String" itemvalue="embed" />
+              <item index="5" class="java.lang.String" itemvalue="script" />
+              <item index="6" class="java.lang.String" itemvalue="app-recipes" />
+              <item index="7" class="java.lang.String" itemvalue="a" />
+            </list>
+          </value>
+        </option>
+        <option name="myCustomValuesEnabled" value="true" />
+      </inspection_tool>
+    </profile>
+    <version value="1.0" />
+  </component>
+  <component name="PDMPlugin">
+    <option name="skipTestSources" value="false" />
+  </component>
+  <component name="ProjectCodeStyleConfiguration">
+    <option name="PREFERRED_PROJECT_CODE_STYLE" value="Corosin-Idea" />
+    <code_scheme name="Project" version="173">
+      <JavaCodeStyleSettings>
+        <option name="ALIGN_MULTILINE_ANNOTATION_PARAMETERS" value="true" />
+        <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="999" />
+        <option name="PACKAGES_TO_USE_IMPORT_ON_DEMAND">
+          <value />
+        </option>
+        <option name="IMPORT_LAYOUT_TABLE">
+          <value>
+            <package name="java" withSubpackages="true" static="false" />
+            <package name="javax" withSubpackages="true" static="false" />
+            <emptyLine />
+            <package name="" withSubpackages="true" static="false" />
+            <emptyLine />
+            <package name="" withSubpackages="true" static="true" />
+          </value>
+        </option>
+      </JavaCodeStyleSettings>
+      <MarkdownNavigatorCodeStyleSettings>
+        <option name="RIGHT_MARGIN" value="72" />
+      </MarkdownNavigatorCodeStyleSettings>
+      <ScalaCodeStyleSettings>
+        <option name="MULTILINE_STRING_CLOSING_QUOTES_ON_NEW_LINE" value="true" />
+      </ScalaCodeStyleSettings>
+      <editorconfig>
+        <option name="ENABLED" value="false" />
+      </editorconfig>
+      <codeStyleSettings language="JAVA">
+        <option name="RIGHT_MARGIN" value="1000" />
+        <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
+        <option name="BLANK_LINES_AROUND_FIELD_IN_INTERFACE" value="1" />
+        <option name="BLANK_LINES_AFTER_CLASS_HEADER" value="1" />
+        <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
+        <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
+        <option name="ALIGN_MULTILINE_BINARY_OPERATION" value="true" />
+        <option name="ALIGN_MULTILINE_ASSIGNMENT" value="true" />
+        <option name="ALIGN_MULTILINE_TERNARY_OPERATION" value="true" />
+        <option name="ALIGN_MULTILINE_THROWS_LIST" value="true" />
+        <option name="ALIGN_MULTILINE_EXTENDS_LIST" value="true" />
+        <option name="ALIGN_MULTILINE_METHOD_BRACKETS" value="true" />
+        <option name="ALIGN_MULTILINE_ARRAY_INITIALIZER_EXPRESSION" value="true" />
+        <option name="SPACE_BEFORE_ARRAY_INITIALIZER_LBRACE" value="true" />
+        <option name="SPACE_BEFORE_ANNOTATION_ARRAY_INITIALIZER_LBRACE" value="true" />
+        <option name="PREFER_PARAMETERS_WRAP" value="true" />
+        <option name="IF_BRACE_FORCE" value="3" />
+        <option name="DOWHILE_BRACE_FORCE" value="3" />
+        <option name="WHILE_BRACE_FORCE" value="3" />
+        <option name="FOR_BRACE_FORCE" value="3" />
+        <indentOptions>
+          <option name="CONTINUATION_INDENT_SIZE" value="0" />
+          <option name="USE_RELATIVE_INDENTS" value="true" />
+        </indentOptions>
+      </codeStyleSettings>
+    </code_scheme>
+  </component>
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/course-project.iml" filepath="$PROJECT_DIR$/course-project.iml" />
+    </modules>
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="RunConfigurationProducerService">
+    <option name="ignoredProducers">
+      <set>
+        <option value="com.android.tools.idea.compose.preview.runconfiguration.ComposePreviewRunConfigurationProducer" />
+      </set>
+    </option>
+  </component>
+</project>
